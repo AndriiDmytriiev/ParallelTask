@@ -1,2 +1,1 @@
-# ParallelTask
-This application contains an approach of running parallel tasks.
+Testen des Betriebs paralleler Prozesse mit Informationen in einer PostgreSQL-Tabelle.
